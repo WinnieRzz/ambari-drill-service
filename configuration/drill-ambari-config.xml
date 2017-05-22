@@ -4,7 +4,7 @@
 <configuration>
   <property>
     <name>drill_install_dir</name>
-    <value>/opt/apache-drill</value>
+    <value>/usr/hdp/2.5.3.0-37/apache-drill</value>
     <description>Location to install Drill</description>
   </property>
   <property>
